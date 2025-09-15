@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou Guilherme Marques
 
-<!--
-**GuilhermeSMarques/GuilhermeSMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Computação | 💻 Desenvolvedor em formação | 📊 Interessado em Dados e Web
 
-Here are some ideas to get you started:
+Atualmente, estou:
+- 🔹 Desenvolvendo sistemas em **Django** (back-end e integração com front-end).
+- 🔹 Me aprofundando em **Ciência de Dados** e **Engenharia de Software**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas
+- **Linguagens:** Python, Java, JavaScript
+- **Frameworks:** Django 
+- **Banco de Dados:** PostgreSQL, SQLite
+- **Ferramentas:** Git, Linux, Docker
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
+
+---
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/guilherme-marques-a4337b358/)
+- ✉️ Email: gsantosm543@gmail.com
