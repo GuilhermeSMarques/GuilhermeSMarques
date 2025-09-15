@@ -10,7 +10,7 @@ Atualmente, estou:
 
 ## 🚀 Tecnologias e Ferramentas
 - **Linguagens:** Python, Java, JavaScript
-- **Frameworks:** Django 
+- **Frameworks:** Django, Flask
 - **Banco de Dados:** PostgreSQL, SQLite
 - **Ferramentas:** Git, Linux, Docker
 - **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
